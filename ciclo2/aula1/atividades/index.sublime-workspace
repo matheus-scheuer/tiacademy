@@ -1,0 +1,379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"a",
+				"align-items"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"Ver",
+				"Verdana"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fo",
+				"footer"
+			],
+			[
+				"boo",
+				"bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"just",
+				"justify-content"
+			],
+			[
+				"wie",
+				"font-weight"
+			],
+			[
+				"im",
+				"imcAmigo"
+			],
+			[
+				"pes",
+				"pesoAmigo"
+			],
+			[
+				"peso",
+				"pesoAmigo"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"an",
+				"anoComeço"
+			],
+			[
+				"cam",
+				"caminhoComÁlcool"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Add Channel"
+			],
+			[
+				"Install Pa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/site2/site2.css",
+		"/C/xampp/htdocs/site2/index.html",
+		"/C/xampp/htdocs/site2/Desafio/style3.css",
+		"/C/xampp/htdocs/site2/Desafio/desafio3.html",
+		"/C/xampp/htdocs/site/header_footer.html",
+		"/C/Users/mathe/Desktop/teste.html",
+		"/C/xampp/htdocs/site/desafio/style2.css",
+		"/C/xampp/htdocs/site/desafio/desafio2.html",
+		"/C/xampp/htdocs/pagina/desafio_1.html",
+		"/C/xampp/htdocs/desafios/desafio_!",
+		"/C/xampp/htdocs/site3/botao.html",
+		"/C/xampp/htdocs/site3/imagem.html",
+		"/C/xampp/htdocs/site3/lemon.jpg",
+		"/C/xampp/htdocs/site2/mq.html",
+		"/C/xampp/htdocs/site2/nav.html",
+		"/C/xampp/htdocs/site2/gradient.html",
+		"/C/xampp/htdocs/site2/viewport.html",
+		"/C/xampp/htdocs/site2/box_sizing.html",
+		"/C/xampp/htdocs/site/forms.html",
+		"/C/xampp/htdocs/site/lista.html",
+		"/C/xampp/htdocs/site/pos_zindex.html",
+		"/C/xampp/htdocs/site/position.html",
+		"/C/xampp/htdocs/site/flex.html",
+		"/C/xampp/htdocs/pagina/index.html",
+		"/C/xampp/htdocs/pagina/pagina2.html",
+		"/C/xampp/htdocs/pagina/css/estilo.css",
+		"/C/xampp/htdocs/pagina/CSS/estilo.css",
+		"/C/xampp/htdocs/index.html",
+		"/C/Users/mathe/Desktop/logica/teste_imc.html",
+		"/C/Users/mathe/Desktop/logica/mostra_idades.html",
+		"/C/Users/mathe/Desktop/logica/teste1.html",
+		"/C/Users/mathe/Desktop/logica/pegadinha.html",
+		"/C/Users/mathe/Desktop/logica/calcula-consumo.html",
+		"/C/Users/mathe/Desktop/logica/trabalho.html",
+		"/C/Users/mathe/Desktop/logica/idades.html",
+		"/C/Users/mathe/Desktop/logica/prova.html",
+		"/C/Users/mathe/Desktop/logica/calculando_meu_gasto.html",
+		"/C/Users/mathe/Desktop/logica/teste_relembrar.html",
+		"/D/Crack/steam_api.dll",
+		"/D/Crack/steam_rld.ini",
+		"/C/Users/mathe/Desktop/logica/programa.html",
+		"/C/Users/mathe/Downloads/South.Park.The.Fractured.But.Whole.Gold.Edition-CODEX/Lógica/teste_mae.html",
+		"/C/Users/mathe/Downloads/South.Park.The.Fractured.But.Whole.Gold.Edition-CODEX/Lógica/teste_do_fugencio.html",
+		"/C/Users/mathe/Downloads/South.Park.The.Fractured.But.Whole.Gold.Edition-CODEX/Lógica/texto_puro.html",
+		"/C/Users/mathe/Downloads/South.Park.The.Fractured.But.Whole.Gold.Edition-CODEX/Lógica/tio_ben.html",
+		"/C/Users/mathe/Downloads/South.Park.The.Fractured.But.Whole.Gold.Edition-CODEX/Lógica/vitoria.html",
+		"/C/Users/mathe/Downloads/South.Park.The.Fractured.But.Whole.Gold.Edition-CODEX/Lógica/teste_java.html",
+		"/C/Users/mathe/Downloads/South.Park.The.Fractured.But.Whole.Gold.Edition-CODEX/Lógica/primeiro_teste.html",
+		"/C/Users/mathe/Downloads/South.Park.The.Fractured.But.Whole.Gold.Edition-CODEX/Lógica/teste-vitinho.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

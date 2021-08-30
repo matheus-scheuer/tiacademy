@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Position</title>
+</head>
+
+<style>
+
+	body {
+		margin: 0;
+	}
+
+	div#pai {
+		width: 400px;
+		height: 400px;
+		border: 1px solid black;
+		position:  absolute;
+		top: 30px;
+		left: 30px;
+		background-color: yellow;
+	}
+
+	div#filho {
+		width: 50px;
+		height: 50 px;
+		position: relative;
+		bottom: 0;
+		background-color: blue;
+
+	}
+
+	/*
+	 position:  absolute / relative / fixed;
+	 --top
+	 --left
+
+	*/
+
+</style>
+
+<body>
+
+
+	<div id="pai"></div>
+	<div class="filho"></div>
+
+<!--
+	<div id="teste_1"></div>
+	<div id="teste_2"></div>
+	<div id="teste_3"></div>
+	<div id="teste_4"></div>
+-->
+</body>
+</html>

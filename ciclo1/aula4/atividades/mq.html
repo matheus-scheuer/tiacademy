@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<style>
+
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+	}
+
+	main {
+		display: flex;
+		width: 80%;
+		height: auto;
+		margin: 0 auto;
+		background-color: tomato;
+	}
+
+	.filho {
+		width:  50%;
+		height: auto;
+		background-color: yellow;
+	}
+	
+	@media screen and (max-width: 700px){
+		main {
+			flex-direction: column;
+		}	
+	
+	}
+	.filho {
+		width: 100%;
+	}
+
+</style>
+<body>
+
+	<main>
+		
+		<div class="filho">
+			
+			<p>Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Numquam sunt id tempore dicta eos voluptates consequatur odio officiis eius vel suscipit itaque esse voluptatem, velit temporibus voluptate inventore, iure quis!</p>
+		</div>
+
+		<div class="filho">
+			<p>Lorem, ipsum dolor sit amet consectetur, adipisicing elit. Earum, in id praesentium debitis veniam. Provident fuga veritatis, perferendis nihil vitae, totam. Nulla magni odit laboriosam vero, architecto? Suscipit, beatae, atque?</p>
+		</div>
+
+	</main>
+	
+</body>
+</html>

@@ -1,0 +1,127 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #2196f8;
+}
+
+header {
+	position: absolute;
+	z-index: 0;
+	width: 100%;
+	height: 200px;
+	background-color: #2196f8;
+	display: flex;
+	flex-direction: column;
+	border-bottom: 40x solid #fff;
+}
+
+header > h1 {
+	padding: 5px;
+	color: white;
+	text-align: center;
+	font-family: Verdana, arial, cursive;
+	margin-top: 40px;
+}
+
+header > h2 {
+	color: #fff;
+	width: 100%;
+	height: 40px;
+	font-family: Verdana, arial, cursive;
+	font-size: 14px;
+	text-align: center;
+}
+
+main {
+	position: absolute;
+	z-index: 100;
+	width: 100%;
+	height: auto;
+	top: 230px;
+	background-color: #2196f8;
+	
+}
+
+#conteudo-geral {
+	width: 80%;
+	margin: 0 auto;
+	flex-direction: column;
+}
+
+.box-custom {
+	width: 100%;
+	height: ;
+}
+
+a {
+	text-decoration: none;
+	color:  #000;
+}
+
+form {
+	width: 400px;
+	height: 300px;
+	padding: 10px;
+	
+}
+
+.flex {
+	display: flex;
+}
+
+.justify-content {
+	justify-content: center;
+}
+
+.display-btn {
+	width: 100%;
+	height: auto;
+	padding: 4px;
+}
+
+.btn {
+	padding: 8px;
+	widows: 100px;
+	border: 1px solid #000;
+	border-radius: 5px;
+	background-color: green;
+}
+
+form > label {
+	width: 100%;
+	height: auto;
+	padding: 4px;
+	display: flex;
+	flex-direction: column;
+	font-family: Verdana, cursive;
+}
+
+form > label > input [type=text] {
+	font-size:  14px;
+	border: none;
+	padding: 4px;
+}
+
+#logo-principal {
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	background-color: #fff;
+	align-items: center;
+}
+
+#logo-principal .logo{
+	font-size: 70px;
+}
+
+#content-base {
+	width: 100%;
+	height: auto;
+	position: absolute;
+	top: 0px;
+	
+}
